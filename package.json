@@ -1,0 +1,6 @@
+{
+	"name": "@nlibs/flushed-mem-cache",
+	"version": "1.0.0",
+	"license": "MIT",
+	"main": "./flushed-mem-cache.js"
+}
